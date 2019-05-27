@@ -29,6 +29,7 @@ Please contribute.
 |Qiita:Team| soon |
 |Scrapbox| soon |
 |Stock| soon |
+|Terrarium| https://wasm.fastlylabs.com |
 |Tumblr| soon |
 |Wantedly Blog| soon |
 |WordPress| soon |
